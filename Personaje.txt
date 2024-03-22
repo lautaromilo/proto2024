@@ -1,3 +1,3 @@
+
 Nombre =  Enzito 
 Vida = 20/20
-ETC = (?
