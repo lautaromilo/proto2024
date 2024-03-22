@@ -1,3 +1,3 @@
-Nombre =  
-Vida =
-ETC = 
+Nombre =  Enzo Fernandez
+Vida = 50/50
+ETC = (?
